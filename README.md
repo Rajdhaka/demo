@@ -26,8 +26,8 @@ npm run test
 ---
 ### 👤  Franck Abgrall
 
- * Twitter:@FranckAbgrall
- * Github:@Kefranabg
+ * Twitter:[@RajeshDhaka](https://github.com/n1khilnick)
+ * Github:[@rajdhaka](https://github.com/n1khilnick)
 
 
 
